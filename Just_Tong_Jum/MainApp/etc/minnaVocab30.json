@@ -1,0 +1,7 @@
+[{"FirstLabel": "JP", "SecondLabel": "Thai", 
+    "Words": [
+        {"Fst": "AAA29", "Snd": "กกก", "Chk": false },
+        {"Fst": "BBB29", "Snd": "ขขข", "Chk": false },
+        {"Fst": "CCC29", "Snd": "คคค", "Chk": false }
+    ]
+}]
